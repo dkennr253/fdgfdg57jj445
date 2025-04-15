@@ -1,1 +1,0 @@
-C:\Users\gkrngfng\source\repos\vhid\hidriver\x64\Debug\hidriver.sys
