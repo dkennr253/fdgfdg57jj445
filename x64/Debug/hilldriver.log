@@ -1,0 +1,22 @@
+﻿  Building 'hidriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\hidriver.inf
+  Stamping [Version] section with DriverVer=04/16/2025,4.23.28.274
+  queue_default.c
+  hilldriver.vcxproj -> C:\Users\gkrngfng\source\repos\vhid\hidriver\x64\Debug\hidriver.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\gkrngfng\source\repos\vhid\hidriver\x64\Debug\hidriver.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\gkrngfng\source\repos\vhid\hidriver\x64\Debug\hidriver\wudf.cat
+  Done Adding Additional Store
+  Successfully signed: x64\Debug\hidriver\wudf.cat
+  
